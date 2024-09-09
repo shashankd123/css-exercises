@@ -1,0 +1,19 @@
+.odd{
+    background: pink;
+    font-family: "Verdana", DejaVu Sans ,sans-serif;
+}
+
+#oneid{
+    color: blue;
+    font-size: 36px;
+}
+
+.fs24{
+    font-size: 24px;
+}
+
+#twoid{
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
